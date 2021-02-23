@@ -1,5 +1,5 @@
 Script to train the convolutional neural networks referenced in the work, and
-fully trained CNNs from which the data is generated.
+summaries of the CNNs from which the data is generated.
 
 Each CNN has an independent training script by layer number and in a folder
 dedicated to the specific inverse design problem solved. The python
@@ -7,8 +7,10 @@ environment and in particular Keras version must be updated to match the
 printout in /auxiliary_scripts/python_environment.txt for an accurate
 reproduction of the claimed model results.
 
-Trained models are included within the corresponding folders (foo/models/),
-which are the models referenced in the work.
+Summaries of the trained models are included within the corresponding folders 
+(foo/models/), which are the models referenced in the work. Fully trained models
+can be made available to the user upon request to the authors. They have not
+been included in this repository due to large file size.
 
 Folder Contents:
 - ellipsometric2refl_trans/: CNNs mapping an ellipsometric spectral type to a
