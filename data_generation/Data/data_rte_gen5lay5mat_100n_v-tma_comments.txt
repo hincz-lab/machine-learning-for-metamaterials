@@ -1,0 +1,1 @@
+Materials: Ag,Al2O3,ITO,Au,TiO2. trange 1-60nm. Return [ang,mats,l, Rp, Rs, Tp, Ts, Ellipsometric] 25-45-65deg angles. 100 set length.
