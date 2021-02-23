@@ -1,1 +1,2 @@
-# machine-learning-for-metamaterials
+# Machine Learning For Metamaterials
+
