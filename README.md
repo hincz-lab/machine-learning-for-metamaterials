@@ -8,7 +8,7 @@ Optical applications of thin-film metamaterials generally involve the inverse de
 
 This repository contains all code necessary to reporoduce our results for systems of up to 5 layers with 5 distinct choices for materials, including the generation of thin-film metamaterial data, training of machine learning models, evaluation of the models, and comparison with other inverse design methods.
 
-Trained models are not included in this repository due to size restrictions. The pretrained models evaluated in the main work can be obatined by contacting the  corresponding authors.
+__Trained models are not included in this repository due to size restrictions. The pretrained models evaluated in the main work can be obatined by contacting the  corresponding authors.__
 
 
 ## File types included in this repository:
