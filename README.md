@@ -8,7 +8,10 @@ Optical applications of thin-film metamaterials generally involve the inverse de
 
 This repository contains all code necessary to reporoduce our results for systems of up to 5 layers with 5 distinct choices for materials, including the generation of thin-film metamaterial data, training of machine learning models, evaluation of the models, and comparison with other inverse design methods.
 
-__Trained models are not included in this repository due to size restrictions. The pretrained models evaluated in the main work can be obatined by contacting the  corresponding authors.__
+Working script to evaluate the CNN models feautred in the main work, along with test examples can be found in the associated Google Colabs environment. This includes evalaution script and the pretrained network models. This can be accessed at the following link:
+https://colab.research.google.com/drive/1zDr5YTg8UMT10jA3jcxv8cb_XGu0qub1?usp=sharing. 
+
+__Trained models are not included in this repository due to size restrictions. The pretrained models evaluated in the main work are available in the associated Google Colabs environment. Alternatively, models can be obatined by contacting the corresponding authors.__
 
 
 ## File types included in this repository:
