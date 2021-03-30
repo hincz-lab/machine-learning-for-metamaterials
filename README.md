@@ -11,9 +11,6 @@ This repository contains all code necessary to reporoduce our results for system
 Working script to evaluate the CNN models feautred in the main work, along with test examples can be found in the associated Google Colabs environment. This includes evalaution script and the pretrained network models. This can be accessed at the following link:
 https://colab.research.google.com/drive/1zDr5YTg8UMT10jA3jcxv8cb_XGu0qub1?usp=sharing. 
 
-A sample script to train a model on a reduced dataset and parameter range is hosted at colabs. This can be used to obsereve a sample of the network training. The full training scripts are hosted in the CNN section of this github, and correspond to the models presented here. This can be accessed at the follwing link:
-https://colab.research.google.com/drive/1cPtHACF6oncSsb-OggknnLDvQbMshKx_?usp=sharing.
-
 The trained models referenced in this work are hosted with OSF (Open Science Framework) due to size constraints. These models, along with some sample datasets, can be found at:
 https://osf.io/65tyh/.
 
