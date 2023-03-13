@@ -403,7 +403,7 @@ global model
 st=0
 
 #hyperparameters for building the model
-hparams = np.array([8,2,272,838,837,0.044710681178082,0.009225313791342])
+hparams = np.array([2,8,272,838,837,0.044710681178082,0.009225313791342])
 
 #fit the function using the described hyperparameters
 fit_fcn(hparams)
